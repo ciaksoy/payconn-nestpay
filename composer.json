@@ -68,5 +68,5 @@
             "url": "https://github.com/ciaksoy/payconn-common",
             "only": ["payconn/common"]
         }
-    ],
+    ]
 }
